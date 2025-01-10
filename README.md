@@ -26,8 +26,8 @@ What attributes and actions do these objects have?
       - Decreasing seed count but increasing plant count
 
 -  Player
-  - Attributes
-    - Bunny sprite
+    - Attributes
+        - Bunny sprite
 
 
 
