@@ -32,8 +32,9 @@ What attributes and actions do these objects have?
 
 
 How do these objects act on or affect each other?
-Number of seeds affect how many plants you can place
-The space bar allows the seeds to be placed
+
+- Number of seeds affect how many plants you can place
+- The space bar allows the seeds to be placed
 
 
 ## Devlog
